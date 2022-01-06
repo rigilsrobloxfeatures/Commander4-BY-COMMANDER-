@@ -1,5 +1,5 @@
 # Commander4-BY-COMMANDER 4.
-Hello guys, today im gonna show you. How to get Commander4 Admin Panel, for roblox studio. get the model: https://web.roblox.com/library/6648688759/Commander-4
+Hello guys, today im gonna show you. How to get Commander4 Admin Panel, for roleplays or obby so you can kick or ban peoples.. get the model: https://web.roblox.com/library/6648688759/Commander-4
 HOW TO INSTALL IT:
 
 Put the script in servicescript service, do not edit or put something the script, also if you want the trying to add people make sure delete local module = {}
